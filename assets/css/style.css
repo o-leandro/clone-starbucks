@@ -41,6 +41,7 @@ h2 {
     border-radius: 3px;
     color: #454545;
     text-decoration: none;
+    transition: .4s;
    
 }
 
